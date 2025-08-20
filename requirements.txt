@@ -3,5 +3,5 @@ scipy==1.16
 trimesh>=3.9
 pandas>=1.3
 openpyxl>=2.4.2
-mpl_toolkits
-matplotlibs
+mpl_toolkits==3.3
+matplotlibs==3.10.5
