@@ -1,0 +1,18 @@
+{
+    "load":1,
+
+    "left_shoulder":[-20.4,50,0], 
+    "right_shoulder":[20.4,50,0], 
+    "left_elbow":[-20.4,17,0], 
+    "right_elbow":[20.4,17,0],
+    "left_wrist":[-20.4,-10,0],
+    "right_wrist":[20.4,-10,0],
+    "right_middle1":[-20.4,-19.5,0],
+    "left_middle1":[20.4,-19.5,0],
+    "neck":[0,51,0],
+    "spine3":[0,42.5,0],
+    "head":[0,63,0],
+    "pelvis":[0,0,0],
+    "spine1":[0,17,0]
+
+}

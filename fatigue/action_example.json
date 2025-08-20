@@ -1,0 +1,12 @@
+{
+    "weight":63.5,
+    "actions":{
+        "walk":10,
+        "run":20,
+        "jump":30,
+        "sit":40,
+        "stand":50
+
+    }
+
+}
