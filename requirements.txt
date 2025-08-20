@@ -1,7 +1,7 @@
-numpy
-scipy
-trimesh
-pandas
+numpy>=2.1
+scipy>=1.7
+trimesh>=3.9
+pandas>=1.3
 openpyxl
 mpl_toolkits
 matplotlibs
