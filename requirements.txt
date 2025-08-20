@@ -1,0 +1,7 @@
+numpy
+scipy
+trimesh
+pandas
+openpyxl
+mpl_toolkits
+matplotlibs
